@@ -24,7 +24,7 @@ public class MyKotlinActivity : AppCompatActivity() {
         Log.e("test", "getTest: $test")
         Log.e(TAG, "onCreate: " + (0.4 - 0.2F))
         //z
-
+//cece
     }
 
     /**
